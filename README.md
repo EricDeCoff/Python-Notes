@@ -7,3 +7,16 @@
 # Tested version 2.7.x
 # Required for Protractor
 ```
+
+## Windows ( Control Panel\System and Security\System )
+### Advanced system settings
+
+```bash
+# Added User Variable
+PYTHON
+C:\Python27\python.exe
+```
+
+```bash
+# Added: C:\Pythn27\; to front of PATH
+```
